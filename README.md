@@ -2,6 +2,8 @@
 
 ## JSM 2016 talk: Thinking with Data using R and RStudio: powerful idioms for analysts
 
+Nicholas Horton: Sunday, July 31st, 2016
+
 Making the Most of R Tools (Section on Statistical Computing)
 
 4:05pm in CC-W183b
@@ -21,9 +23,13 @@ TO BE ADDED
 
 [Developing precursors to data science website](http://www.amherst.edu/~nhorton/precursors)
 
+[Setting the stage: integration of data management skills in introductory and second courses in statistics (Horton, Baumer, and Wickham)](http://chance.amstat.org/2015/04/setting-the-stage)
+
 [Mere renovation is not enough website](http://www.amherst.edu/~nhorton/mererenovation)
 
-[Think with data editorial](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283)
+[RStudio cheatsheets](https://www.rstudio.com/resources/cheatsheets)
+
+[Thinking with data TAS editorial](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283)
 
 [Undergraduate statistics curriculum guidelines](http://www.amstat.org/education/curriculumguidelines.cfm)
 
