@@ -1,5 +1,17 @@
 # JSM2016-thinkwithR
-JSM 2016 talk: Thinking with Data using R and RStudio: powerful idioms for analysts
+
+## JSM 2016 talk: Thinking with Data using R and RStudio: powerful idioms for analysts
+
+Making the Most of R Tools (Section on Statistical Computing)
+
+4:05pm in CC-W183b
+
+## Abstract
+
+Statisticians and data scientists need to be able to "think with data" in order to answer statistical questions that arise from the flood of data that are now available. In this talk, I will introduce a set of key idioms due to Hadley Wickham that provide a framework to teach data management skills and facilitate loading, merging, and transforming large datasets.
+
+This talk will demonstrate these idioms implemented in new packages in R (namely readr, dplyr, haven, lubridate, mosaic, rvest, stringr, and tidyr) to ingest, manage, transform, analyze, and model data. You'll see that it is easy to learn to use these packages, and that it is very worthwhile to do so. The talk provides a headstart on learning, then points out the next steps. No prior experience with R is expected.
+
 
 ## Slides and R Markdown files
 
@@ -8,8 +20,11 @@ TO BE ADDED
 ## Resources
 
 [Developing precursors to data science website](http://www.amherst.edu/~nhorton/precursors)
+
 [Mere renovation is not enough website](http://www.amherst.edu/~nhorton/mererenovation)
+
 [Think with data editorial](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283)
+
 [Undergraduate statistics curriculum guidelines](http://www.amstat.org/education/curriculumguidelines.cfm)
 
 Last updated July 30, 2016 by [Nicholas Horton](https://www.amherst.edu/people/facstaff/nhorton)
