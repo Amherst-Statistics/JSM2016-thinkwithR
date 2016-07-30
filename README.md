@@ -19,7 +19,9 @@ This talk will demonstrate these idioms implemented in new packages in R (namely
 
 [slides](jsm2016-horton.pdf)
 
-[airlines package (to set up airlines database](http://github.com/beanumber/airlines)
+[airlines package (to set up local airlines database using etl package)](http://github.com/beanumber/airlines)
+
+[etl (extract, transform, load) package)](http://github.com/beanumber/etl)
 
 ## Resources
 
