@@ -17,7 +17,9 @@ This talk will demonstrate these idioms implemented in new packages in R (namely
 
 ## Slides and R Markdown files
 
-TO BE ADDED
+[slides](jsm2016-horton.pdf)
+
+[airlines package (to set up airlines database](http://github.com/beanumber/airlines)
 
 ## Resources
 
