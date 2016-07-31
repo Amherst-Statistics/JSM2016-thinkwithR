@@ -29,6 +29,8 @@ This talk will demonstrate these idioms implemented in new packages in R (namely
 
 [Setting the stage: integration of data management skills in introductory and second courses in statistics (Horton, Baumer, and Wickham)](http://chance.amstat.org/2015/04/setting-the-stage)
 
+[Tidy data paper](https://www.jstatsoft.org/article/view/v059i10/v59i10.pdf)
+
 [Mere renovation is not enough website](http://www.amherst.edu/~nhorton/mererenovation)
 
 [RStudio cheatsheets](https://www.rstudio.com/resources/cheatsheets)
@@ -37,4 +39,6 @@ This talk will demonstrate these idioms implemented in new packages in R (namely
 
 [Undergraduate statistics curriculum guidelines](http://www.amstat.org/education/curriculumguidelines.cfm)
 
-Last updated July 30, 2016 by [Nicholas Horton](https://www.amherst.edu/people/facstaff/nhorton)
+[R Markdown in introductory statistics (TISE) paper](http://escholarship.org/uc/item/90b2f5xh)
+
+Last updated July 31, 2016 by [Nicholas Horton](https://www.amherst.edu/people/facstaff/nhorton)
