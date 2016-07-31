@@ -41,4 +41,6 @@ This talk will demonstrate these idioms implemented in new packages in R (namely
 
 [R Markdown in introductory statistics (TISE) paper](http://escholarship.org/uc/item/90b2f5xh)
 
+[Happy Git and GitHub for the useR](http://happygitwithr.com)
+
 Last updated July 31, 2016 by [Nicholas Horton](https://www.amherst.edu/people/facstaff/nhorton)
